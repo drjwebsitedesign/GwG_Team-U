@@ -1,6 +1,7 @@
 
 # Team-U :mortar_board:
 *An unofficial group of [Udacity Alumni](https://www.udacity.com/) and [Grow with Google Scholars](https://www.udacity.com/grow-with-google) staying connected through code and collaboration*
+https://drjwebsitedesign.github.io/GwG_Team-U/
 
 ## Visitors:
 This is a place for you to learn about us, find out what projects we are working on, and connect with us through our social media links below!
